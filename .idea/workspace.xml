@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a6b92e-5985-44e0-a508-256e2e1a027c" name="Default" comment="" />
+    <list default="true" id="61a6b92e-5985-44e0-a508-256e2e1a027c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/art-gallery-app.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 001.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 002.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 003.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 007.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 008.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 011.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 013.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 016.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 018.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 019.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 023.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 025.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 026.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 027.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 029.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 031.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 449.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 450.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 451.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 508.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 511.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Foto 515.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0035.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0125.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0126.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0192.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0193.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_0195.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_2965.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4235.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4893.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4897.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4898.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4909.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4911.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/IMG_4915.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/background/home.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/lang/flag_eng.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/lang/flag_fra.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/lang/flag_jpn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_1.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_2.JPG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/slider/IMG_9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 052.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 053.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 055.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 057.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 060.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 062.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 064.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 065.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 068.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 075.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 077.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/Изображение 079.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/жщор.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/жщшрн.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/лром.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/маг6всаогол.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/щоррр.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/ънесччагш.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/ъх-9г0.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/comboLanguages.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/flag.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/navBar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/contact.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/gallery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/home.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/home1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/containers/person.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/img.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/home.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/mila.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/resources/fonts/SouthernAire_Personal_Use_Only.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/style/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/utils.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -157,6 +259,9 @@
       <dir>C:\Users\Alex\Documents\art-gallery-app\node_modules\react-3d-carousel</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -205,6 +310,7 @@
     <option name="width" value="1364" />
     <option name="height" value="738" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -339,12 +445,12 @@
       <workItem from="1515940506733" duration="21091000" />
       <workItem from="1516051997867" duration="1885000" />
       <workItem from="1516130567708" duration="9384000" />
-      <workItem from="1516382494808" duration="3868000" />
+      <workItem from="1516382494808" duration="4369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36228000" />
+    <option name="totallyTimeSpent" value="36729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -354,7 +460,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
