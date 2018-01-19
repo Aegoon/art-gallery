@@ -5,6 +5,7 @@ import NavBar from './components/navBar';
 
 import Home from './containers/home';
 import Home1 from './containers/home1';
+import Home2 from './containers/home2';
 import Gallery from './containers/gallery';
 import Person from './containers/person';
 import Contact from './containers/contact';
@@ -62,6 +63,7 @@ class App extends Component {
             <Switch>
               <Route exact path="/home" component={Home}/>
               <Route exact path="/home1" component={Home1}/>
+              <Route exact path="/home2" component={Home2}/>
               <Route exact path="/gallery" component={Gallery}/>
               <Route exact path="/person" component={Person}/>
               <Route exact path="/contact" component={Contact}/>

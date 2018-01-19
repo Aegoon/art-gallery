@@ -9,6 +9,7 @@ class Home1 extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      width: window.innerWidth / 2,
       activeIndex: 0,
       value: 3
     };
@@ -16,23 +17,25 @@ class Home1 extends Component {
 
   render() {
 
-    const images = items.map( (item) => {
+    let images = items.map( (item) => {
       return item.src;
 
     });
+    images.slice(0,6);
     const duration = 400;
     const layout = 'prism'
 
     return (
-
       <div className="App" style={{height: '90vh'}}>
+        <div className="content">
 
-        <Carousel width="600"
-        images={images}
-        ease="linear"
-        duration={duration}
-        layout={layout}/>
+          <Carousel width={this.state.width}
+                    images={images}
+                    ease="linear"
+                    duration={duration}
+                    layout={layout}/>
 
+        </div>
       </div>
     );
   }

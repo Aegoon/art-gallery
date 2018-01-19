@@ -56,6 +56,7 @@ class NavBar extends Component {
           <Menu className="art-menu">
             <MenuItem primaryText="Главная" onClick={() => this.goTo("/home")}/>
             <MenuItem primaryText="Главная1" onClick={() => this.goTo("/home1")}/>
+            <MenuItem primaryText="Главная2" onClick={() => this.goTo("/home2")}/>
             <MenuItem primaryText="Галерея" onClick={() => this.goTo("/gallery")}/>
             <MenuItem primaryText="Персона" onClick={() => this.goTo("/person")}/>
             <MenuItem primaryText="Творчество" />
