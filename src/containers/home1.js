@@ -22,8 +22,8 @@ class Home1 extends Component {
 
     });
     images.slice(0,6);
-    const duration = 400;
-    const layout = 'prism'
+    const duration = 1500;
+    const layout = 'classic'
 
     return (
       <div className="App" style={{height: '90vh'}}>

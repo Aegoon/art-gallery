@@ -73,8 +73,9 @@ body {
 .react-3d-carousel .carousel  figure {
     display: block;
     position: absolute;
+    margin-top: 20vh;
     width: 50vw;
-    height: 86vh;
+    height: 50vh;
     left: 25vw;
     top: 2vh;
     border: 2px solid black;

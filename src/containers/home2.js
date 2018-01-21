@@ -1,38 +1,41 @@
 import React, { Component } from 'react';
-import Slider from 'react-slick';
-import items from '../img';
-import {Row, Col} from 'reactstrap';
+//import '../App.css';
+
+import items from '../img'
+import Carousel from 'react-3d-carousel';
 
 class Home2 extends Component {
 
   constructor(props) {
     super(props);
     this.state = {
+      width: window.innerWidth / 2,
+      activeIndex: 0,
+      value: 3
     };
   }
 
   render() {
+
     let images = items.map( (item) => {
-      return (<div><img style={{height: "70vh", margin: "auto"}} src={item.src} /></div>)
+      return item.src;
 
     });
-    const settings = {
-      dots: true,
-      fade: true,
-      infinite: true,
-      speed: 2000,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 3000,
-      centerMode: true,
-      className: "custom-slider"
-    };
+    images.slice(0,6);
+    const duration = 1500;
+    const layout = 'classic'
+
     return (
       <div className="App" style={{height: '90vh'}}>
-        <Slider {...settings}>
-          {images}
-        </Slider>
+        <div className="content">
+
+          <Carousel width={this.state.width}
+                    images={images}
+                    ease="linear"
+                    duration={duration}
+                    layout={layout}/>
+
+        </div>
       </div>
     );
   }

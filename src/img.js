@@ -70,13 +70,14 @@ const IMAGES =
       tags: [{value: "Название", title: ""}, {value: "Размер?", title: ""}],
       caption: "Лес!"
     },
-
-    {
-      src: "./img/slider/IMG_10.JPG",
-      thumbnail: "./img/slider/IMG_10.JPG",
-      thumbnailWidth: 320,
-      thumbnailHeight: 480,
-      caption: "Озеро"
-    }]
+    //
+    // {
+    //   src: "./img/slider/IMG_10.JPG",
+    //   thumbnail: "./img/slider/IMG_10.JPG",
+    //   thumbnailWidth: 320,
+    //   thumbnailHeight: 480,
+    //   caption: "Озеро"
+    // }
+    ]
 
 export default IMAGES;

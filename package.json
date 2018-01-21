@@ -13,17 +13,14 @@
     "react-dom": "^16.2.0",
     "react-grid-gallery": "0.4.7",
     "react-icons": "^2.2.7",
-    "react-responsive-carousel": "3.1.30",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
-    "react-slick": "^0.16.0",
     "react-tooltip": "^3.4.0",
-    "reactstrap": "^5.0.0-alpha.4",
-    "slick-carousel": "^1.8.1"
+    "reactstrap": "^5.0.0-alpha.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node start",
     "build": "react-scripts build",
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
