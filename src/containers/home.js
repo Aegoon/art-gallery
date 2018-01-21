@@ -22,7 +22,7 @@ class Home extends Component {
 
     });
     images.slice(0,6);
-    const duration = 1500;
+    const duration =  500;
     const layout = 'classic'
 
     return (
