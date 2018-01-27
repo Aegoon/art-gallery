@@ -29,6 +29,12 @@ body {
     font-family: 'SouthernAire';
 }
 
+/*GALLERY*/
+.gallery-item {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
 /*FONTS*/
 @font-face {
     font-family: 'SouthernAire';
@@ -70,12 +76,11 @@ body {
     transform-style: preserve-3d;
 }
 
-.react-3d-carousel .carousel  figure {
+.react-3d-carousel .carousel figure {
     display: block;
     position: absolute;
     margin-top: 20vh;
-    width: 50vw;
-    height: 50vh;
+    max-width: 50vw;
     left: 25vw;
     top: 2vh;
     border: 2px solid black;

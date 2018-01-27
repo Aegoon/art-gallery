@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import Gallery from 'react-grid-gallery';
-
-import {Container, Label} from 'reactstrap';
-
-import items from '../img'
+import {Container, Label, Row} from 'reactstrap';
+import Item from '../components/galleryItem';
+import items from '../resources/gallery';
 
 class GalleryPage extends Component {
 
@@ -11,17 +9,21 @@ class GalleryPage extends Component {
     super(props);
   }
 
+  getItems() {
+    return items.map( image => {
+      return (
+        <Item image={image}></Item>
+      )
+    });
+  }
+
   render() {
-
-
     return (
       <Container className="text-center">
         <Label className="m-2">Its s Gallery</Label>
-        <Gallery
-          images={items}
-          rowHeight={240}
-          enableImageSelection={false}
-        />
+        <Row>
+          {this.getItems()}
+        </Row>
       </Container>
     );
   }

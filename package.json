@@ -5,14 +5,16 @@
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
     "create-react-class": "^15.6.2",
+    "imagemagick": "^0.1.3",
     "jquery": "3.2.1",
     "material-ui": "0.20.0",
     "node-sass-chokidar": "0.0.3",
+    "path": "^0.12.7",
     "react": "^16.2.0",
     "react-3d-carousel": "0.0.6",
     "react-dom": "^16.2.0",
-    "react-grid-gallery": "0.4.7",
     "react-icons": "^2.2.7",
+    "react-responsive-carousel": "3.1.30",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
@@ -20,7 +22,7 @@
     "reactstrap": "^5.0.0-alpha.4"
   },
   "scripts": {
-    "start": "node server",
+    "start": "node start",
     "build": "react-scripts build",
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
